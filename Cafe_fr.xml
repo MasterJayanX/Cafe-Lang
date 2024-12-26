@@ -10,7 +10,7 @@
 			<text id="Basic_Achievement_Curiercount" name="Plat exclusif"  />
 			<text id="Basic_Achievement_Differentdishes" name="Restaurateur excellent"  />
 			<text id="Basic_Achievement_Earnedchips" name="Glacier astucieux"  />
-			<text id="Basic_Achievement_Fancycount" name="Précieux collègue"  />
+			<text id="Basic_Achievement_Fancycount" name="Ingrédients délicieux"  />
 			<text id="Basic_Achievement_Firenpc" name="Rôtisseur éclair"  />
 			<text id="Basic_Achievement_Instantcount" name="Potier impatient"  />
 			<text id="Basic_Achievement_Jobclean" name="Nettoyeur éclair"  />
@@ -57,15 +57,15 @@
 			<text id="alert_dekoshop_kickplayer_copy" name="Il y a encore des joueurs dans ton café. Si tu veux rénover maintenant, il faut les mettre à la porte"  />
 			<text id="alert_dekoshop_kickplayer_title" name="Attention!"  />
 			<text id="alert_FancyCooking_copy" name="Est ce que tu veux épicer ton plat avec cet ingrédient de luxe et gagner {0} more XP et {1} plus de portions?"  />
-			<text id="alert_FancyCooking_title" name="Ingrédients Fancy"  />
-			<text id="alert_fancyinfo_copy" name="Tu peux assaisonner un plat avec les ingrédient Fancy, et gagner jusqu&#039;á 20% de XP et de portions en plus.
+			<text id="alert_FancyCooking_title" name="Ingrédients Élégants"  />
+			<text id="alert_fancyinfo_copy" name="Tu peux assaisonner un plat avec les ingrédient Élégants, et gagner jusqu&#039;á 20% de XP et de portions en plus.
 Les ingrédiants Fancy ne prennent aucune place dans ton frigo."  />
-			<text id="alert_fancyinfo_title" name="Ingrédients Fancy"  />
+			<text id="alert_fancyinfo_title" name="Ingrédients Élégants"  />
 			<text id="alert_giftboxfull_copy" name="Ta boite à cadeaux est pleine! Tu ne peux plus recevoir de cadeaux de tes amis!"  />
 			<text id="alert_giftboxfull_title" name="Plus de place!"  />
 			<text id="alert_guestchangepassword_copy" name="Tu dois être inscrits pour pouvoir changer ton mot de passe."  />
 			<text id="alert_guestchangepassword_title" name="D&#039;abord s&#039;inscrire"  />
-			<text id="alert_guestcoop_copy" name="Il faut d&#039;abord t&#039;inscrire pour jouer au Co-OPs."  />
+			<text id="alert_guestcoop_copy" name="Il faut d&#039;abord t&#039;inscrire pour jouer aux Co-Ops."  />
 			<text id="alert_guestinvitefriend_copy" name="Tu dois d&#039;abord être inscrits pour pouvoir inviter  tes amis"  />
 			<text id="alert_guestinvitefriend_title" name="D&#039;abord s&#039;inscrire"  />
 			<text id="alert_guestlogout_copy" name="Inscris toi pour sauvegarder ton score!"  />
@@ -450,7 +450,7 @@ Temps de bronze: {3} Heure(s)"  />
 			<text id="dialogwin_fancycooking_title" name="Est-ce que tu veux épicer ce plat avec {0}?"  />
 			<text id="dialogwin_featureUnlocked_coop" name="Fonde une Co-Op avec tes amis!"  />
 			<text id="dialogwin_featureUnlocked_decoration" name="Tu as maintenant accès à de nouveaux articles de décoration!"  />
-			<text id="dialogwin_featureUnlocked_fancy" name="Donne de la couleur à tes plats avec des ingrédients fancy!"  />
+			<text id="dialogwin_featureUnlocked_fancy" name="Donne de la couleur à tes plats avec des ingrédients Élégants!"  />
 			<text id="dialogwin_featureUnlocked_frosty" name="Découvre le Frosty et étanche la soif de tes invités!"  />
 			<text id="dialogwin_featureUnlocked_marketplace" name="Cherche de nouveaux amis sur la place du marché!"  />
 			<text id="dialogwin_featureUnlocked_muffinman" name="Tente ta chance avec le Muffin Man!"  />
@@ -483,7 +483,7 @@ Temps de bronze: {3} Heure(s)"  />
 			<text id="dialogwin_ingamehelp_1_7" name="Une cuisinière utilisée est sale et doit être nettoyée avant la prochaine utilisation."  />
 			<text id="dialogwin_ingamehelp_2_1" name="Qu&#039;est-ce que je dois savoir sur les ingrédients?"  />
 			<text id="dialogwin_ingamehelp_2_2" name="Voici où tu ranges les ingrédients que tu as achetés. Chaque frigo a une capacité limitée. Mais c&#039;est toujours une bonne idée d&#039;acheter de l&#039;inventaire."  />
-			<text id="dialogwin_ingamehelp_2_3" name="Les ingrédients Fancy ajoutent du piquant à tes plats. Si tu les utilises, tu obtiens plus de portions et de XP. Ils ne prennent pas de place non plus dans ton frigo."  />
+			<text id="dialogwin_ingamehelp_2_3" name="Les ingrédients Élégants ajoutent du piquant à tes plats. Si tu les utilises, tu obtiens plus de portions et de XP. Ils ne prennent pas de place non plus dans ton frigo."  />
 			<text id="dialogwin_ingamehelp_2_4" name="Certains ingrédients ne sont pas toujours offerts. Le livreur peut t&#039;aider avec cela. pour un petit pourboire, tu auras toujours ce dont tu as besoin."  />
 			<text id="dialogwin_ingamehelp_2_5" name="Ces ingrédients sont toujours offerts :"  />
 			<text id="dialogwin_ingamehelp_3_1" name="Valeurs et Co."  />
@@ -784,10 +784,10 @@ accessible à la roue de la fortune!"  />
 			<text id="featureDialog_2_text_1" name="Nouveaux articles pour les dîners à thème!"  />
 			<text id="featureDialog_2_text_2" name="Agrandir ton café encore plus!"  />
 			<text id="featureDialog_30_text_0" name="Plus de place dans ton frigo! 
-A partir de maintenant les ingrédiants Fancy ne sont plus pris en compte par la capacité de ton frigo.Tu peu stoker autant que tu veux."  />
+A partir de maintenant les ingrédiants Élégants ne sont plus pris en compte par la capacité de ton frigo.Tu peu stoker autant que tu veux."  />
 			<text id="featureDialog_30_text_1" name="Dés maintenant tu peux acheter tes extensions aussi avec des dollar-café."  />
 			<text id="featureDialog_31_text_0" name="Plus de place dans ton frigo!
-A partir de maintenant les ingrédiants Fancy ne sont plus pris en compte par la capacité de ton frigo.Tu peu stoker autant que tu veux."  />
+A partir de maintenant les ingrédiants Élégants ne sont plus pris en compte par la capacité de ton frigo.Tu peu stoker autant que tu veux."  />
 			<text id="featureDialog_31_text_1" name="A partir de maintenant tes extensions sont gratuites, si tu as asses d&#039;amis."  />
 			<text id="featureDialog_32_text_0" name="Tu veux toujours plus de clients?
 Alors achète-toi un Frosty et rafraichis-les!"  />
@@ -1422,7 +1422,7 @@ Temps disponible limité"  />
 			<text id="tt_Basic_Achievement_Curiercount" name="Nombre de commandes de livraisons"  />
 			<text id="tt_Basic_Achievement_Differentdishes" name="Nombre des différents plats cuisinés"  />
 			<text id="tt_Basic_Achievement_Earnedchips" name="Dollars-café gagnés"  />
-			<text id="tt_Basic_Achievement_Fancycount" name="Nombre d&#039;Ingrédients Fancy utilisés"  />
+			<text id="tt_Basic_Achievement_Fancycount" name="Nombre d&#039;Ingrédients Élégants utilisés"  />
 			<text id="tt_Basic_Achievement_Firenpc" name="Nombre de serveurs licenciés"  />
 			<text id="tt_Basic_Achievement_Instantcount" name="Nombre de plats instantannés cuisinés"  />
 			<text id="tt_Basic_Achievement_Jobclean" name="Débarrasser les assietes des Serveurs"  />
@@ -1500,10 +1500,10 @@ Cliques sur détails"  />
 			<text id="tt_CafeIngredientShopDialog_btn_cat1" name="Animal"  />
 			<text id="tt_CafeIngredientShopDialog_btn_cat2" name="Légumes"  />
 			<text id="tt_CafeIngredientShopDialog_btn_cat3" name="Fruits"  />
-			<text id="tt_CafeIngredientShopDialog_btn_cat4" name="Ingrédients Fancy"  />
+			<text id="tt_CafeIngredientShopDialog_btn_cat4" name="Ingrédients Élégants"  />
 			<text id="tt_CafeIngredientShopDialog_btn_cat5" name="Autre"  />
 			<text id="tt_CafeIngredientShopDialog_btn_fridge" name="Frigo"  />
-			<text id="tt_CafeIngredientShopDialog_btn_help" name="Quels sont les ingrédiens Fancy?"  />
+			<text id="tt_CafeIngredientShopDialog_btn_help" name="Quels sont les ingrédiens Élégants?"  />
 			<text id="tt_CafeIngredientShopDialog_btn_sell" name="Vendre"  />
 			<text id="tt_CafeIngredientShopDialog_btn_shop" name="Supermarché"  />
 			<text id="tt_CafeIngredientShopDialog_btn_unlock" name="Livreur"  />
